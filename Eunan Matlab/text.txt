@@ -1,0 +1,3 @@
+a=motor.listdevices
+m1=motor
+connect(m1,a{1})
