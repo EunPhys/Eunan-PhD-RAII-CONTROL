@@ -4,4 +4,4 @@ Motor control script for automated image capture using RAII SPAD Line array syst
 
 Optimised for single and multipoint TCSPC imaging. 
 
-High resolution, high IQ.
+
